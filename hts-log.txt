@@ -9,6 +9,4 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 18:30:14	Error: 	"Not Found" (404) at link blueimp.github.io/JavaScript-Load-Image/js/load-image.min.js (from www.cliptheme.com/preview/admin/clip-one/form_multiple_upload.html)
 
 HTTrack Website Copier/3.48-19 mirror complete in 6 minutes 0 seconds : 382 links scanned, 380 files written (9430461 bytes overall) [9530119 bytes received at 26472 bytes/sec], 42725 bytes transferred using HTTP compression in 4 files, ratio 36%, 6.1 requests per connection
-<<<<<<< HEAD
-(1 errors, 0 warnings, 0 messages)
 
